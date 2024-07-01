@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+ Hi, I'm Sweety khatun<br><br>I'm a passionate web developer with a strong foundation in front-end technologies and computer science principles. I enjoy transforming ideas into reality using code and bringing a creative vision to life in the browser. My skill set includes:<br><br>HTML: Crafting semantic and accessible markup to ensure web content is well-structured and easy to understand.<br>CSS: Styling beautiful and responsive web pages with a focus on modern design principles, animations, and transitions.<br>JavaScript: Building dynamic and interactive user interfaces with vanilla JS and leveraging frameworks and libraries for more complex functionalities.<br>React: Developing modern, component-based applications with state management, hooks, and performance optimizations.<br>Data Structures and Algorithms (DSA): Solving complex problems efficiently and optimizing code performance with a deep understanding of fundamental computer science concepts.<br>Object-Oriented Programming (OOP): Designing modular, scalable, and maintainable software with encapsulation, inheritance, and polymorphism.<br>I have a knack for problem-solving and enjoy tackling challenges head-on. My projects often involve a blend of creativity and technical expertise, from simple static websites to complex web applications. I am always eager to learn new technologies and improve my skills.<br><br>When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or engaging with the developer community.<br><br>Feel free to check out my projects, follow my journey, and connect with me!
 
-<!--
-**Sweetykhatun1/Sweetykhatun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sweetykhatun1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sweetykhatun1&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetykhatun1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Sweetykhatun1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
